@@ -1,0 +1,12 @@
+# ninja log v5
+26	440	6979290521082713	CMakeFiles/Lab2.dir/first_task.c.obj	1a83ef408969bad2
+3	89	6981958565071592	CMakeFiles/Lab2.dir/main.c.obj	f94e13b7f67396b7
+342	538	6985298406686939	Lab2.exe	1c7c266a8e462f3c
+1	168	6985312355770439	build.ninja	ce803e0db7dfe3f8
+16	341	6985298404763255	CMakeFiles/Lab2.dir/tasks.c.obj	7ef185f1f98bdbd3
+3	321	6985314901314478	CMakeFiles/Lab2.dir/main.c.obj	f94e13b7f67396b7
+11	321	6985314901314478	CMakeFiles/Lab2.dir/goodscanfs.c.obj	eebfe7cc8bd384b4
+8	324	6985314901344464	CMakeFiles/Lab2.dir/tasks.c.obj	7ef185f1f98bdbd3
+324	490	6985314902957647	Lab2.exe	e67efc51c8661fab
+3	127	6985315745658342	CMakeFiles/Lab2.dir/tasks.c.obj	7ef185f1f98bdbd3
+128	298	6985315747325325	Lab2.exe	e67efc51c8661fab
