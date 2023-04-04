@@ -1,10 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="CMakePresetLoader"><![CDATA[{
-  "useNewFormat": true
-}]]></component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakePresetLoader">{
+  &quot;useNewFormat&quot;: true
+}</component>
   <component name="CMakeReloadState">
     <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="Lab4" targetName="Lab4" />
+    </generated>
   </component>
   <component name="CMakeSettings">
     <configurations>
@@ -17,6 +25,48 @@
       <change beforePath="$PROJECT_DIR$/../DopLab2/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../DopLab2/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Lab3/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab3/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Lab3/cmake-build-debug/data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab3/cmake-build-debug/data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab3/task.c" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab3/task.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Lab4.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Lab4.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-43ab3dd16630c48efac4.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-2cce7358870db4524546.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-76dce0628206b5d741c2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-a53e1f5654357fa70797.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-ff3381d2dbe916cbe02e.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/index-2023-03-14T18-05-36-0062.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/index-2023-03-18T22-42-57-0121.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/index-2023-03-18T22-43-04-0080.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/index-2023-03-18T22-50-00-0769.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/index-2023-03-18T22-56-51-0914.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-Lab4-Debug-5cb3ed8d927c58e93b22.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-Lab4-Debug-68e67d299b67a2f0cbf3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-Lab4-Debug-896f104702b9ddfe2d91.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-Lab4-Debug-98fc25350dc18581fe58.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/build.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/goodinputs.c" beforeDir="false" afterPath="$PROJECT_DIR$/goodinputs.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/goodinputs.h" beforeDir="false" afterPath="$PROJECT_DIR$/goodinputs.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/menu.c" beforeDir="false" afterPath="$PROJECT_DIR$/menu.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/menu.h" beforeDir="false" afterPath="$PROJECT_DIR$/menu.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task.c" beforeDir="false" afterPath="$PROJECT_DIR$/task.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task.h" beforeDir="false" afterPath="$PROJECT_DIR$/task.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab5/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab5/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab5/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-e598cfc8d3d14350b59a.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab5/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-a0944384d6e1ca22205e.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab5/cmake-build-debug/.cmake/api/v1/reply/index-2023-03-29T23-17-06-0375.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab5/cmake-build-debug/.cmake/api/v1/reply/target-Lab5-Debug-b1350ffd9eb732db795c.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab5/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab5/cmake-build-debug/.ninja_deps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab5/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab5/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab5/cmake-build-debug/CMakeFiles/Lab5.dir/main.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab5/cmake-build-debug/CMakeFiles/Lab5.dir/main.c.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab5/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab5/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab5/cmake-build-debug/Lab5.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab5/cmake-build-debug/Lab5.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab5/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab5/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab5/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab5/cmake-build-debug/build.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab5/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab5/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab5/task.c" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab5/task.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../StructsOfDate/.idea/StructsOfDate.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../StructsOfDate/.idea/StructsOfDate.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../StructsOfDate/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../StructsOfDate/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../StructsOfDate/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../StructsOfDate/main.c" afterDir="false" />
@@ -29,8 +79,12 @@
   <component name="ClangdSettings">
     <option name="formatViaClangd" value="false" />
   </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectApplicationVersion">
     <option name="ide" value="CLion" />
@@ -39,14 +93,31 @@
   </component>
   <component name="ProjectId" id="2N12BR8HpSCm5SaMzAQP6WXxAtm" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.cidr.known.project.marker": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "cf.first.check.clang-format": "false",
-    "cidr.known.project.marker": "true"
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Labs2Semester/Lab4&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;structure.view.defaults.are.configured&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager">
+    <configuration name="Lab4" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="22" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Lab4" TARGET_NAME="Lab4" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Lab4" RUN_TARGET_NAME="Lab4">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -55,7 +126,21 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1678817131793</updated>
-      <workItem from="1678817133926" duration="1000" />
+      <workItem from="1678817133926" duration="129000" />
+      <workItem from="1678947255764" duration="610000" />
+      <workItem from="1679179214501" duration="12863000" />
+      <workItem from="1679194272559" duration="2202000" />
+      <workItem from="1679229920828" duration="7325000" />
+      <workItem from="1679342707291" duration="29000" />
+      <workItem from="1679502739493" duration="2211000" />
+      <workItem from="1679586859773" duration="164000" />
+      <workItem from="1679644256976" duration="678000" />
+      <workItem from="1680093679872" duration="696000" />
+      <workItem from="1680128431178" duration="3062000" />
+      <workItem from="1680181986585" duration="5130000" />
+      <workItem from="1680188571025" duration="1071000" />
+      <workItem from="1680196852099" duration="1586000" />
+      <workItem from="1680638198495" duration="7372000" />
     </task>
     <servers />
   </component>
@@ -72,5 +157,21 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/task.c</url>
+          <line>217</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/task.c</url>
+          <line>122</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

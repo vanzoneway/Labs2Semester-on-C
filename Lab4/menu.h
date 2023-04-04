@@ -6,3 +6,4 @@
 #define LAB4_MENU_H
 
 #endif //LAB4_MENU_H
+void menu();

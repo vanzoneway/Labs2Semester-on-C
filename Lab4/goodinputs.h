@@ -6,3 +6,6 @@
 #define LAB4_GOODINPUTS_H
 
 #endif //LAB4_GOODINPUTS_H
+int goodScanfInt();
+float goodScanfFloat();
+int get_clear_string(char** str);

@@ -3,4 +3,4 @@ project(Lab4 C)
 
 set(CMAKE_C_STANDARD 11)
 
-add_executable(Lab4 main.c)
+add_executable(Lab4 main.c goodinputs.c goodinputs.h task.c task.h menu.c menu.h)
