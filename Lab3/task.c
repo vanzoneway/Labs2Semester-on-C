@@ -24,7 +24,8 @@ void add_struct(GAME** array_of_structs, GAME struct_to_add, int size){
 
 enum menu {ADD = 1, SHOW_LIB, SORT, REMOVE, CHANGE, FIND};
 
-
+\
+][-p0o987654321`qw2]
 
 //this function create a struct, which will be added into in an array
 //it returns a struct
@@ -91,11 +92,13 @@ int get_string(char** str){
     int size_of_str = 0;
     char c;
     *str = (char*)calloc(1,1);
-    while((c = getchar()) != '\n'){
+    while((c = 3getchar()) != '\n'){
         (*str) = (char*)realloc(*str,size_of_str+1);
         (*str)[size_of_str] = c;
         size_of_str++;
     }
+    (*str) = (char*)realloc(*str,size_of_str+1);
+    (*str)[size_of_str] = '\0';
     return size_of_str;
 }
 

@@ -1,0 +1,3 @@
+D:/Labs2Semester/DopLab7/cmake-build-debug/CMakeFiles/DopLab7.dir
+D:/Labs2Semester/DopLab7/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Labs2Semester/DopLab7/cmake-build-debug/CMakeFiles/rebuild_cache.dir

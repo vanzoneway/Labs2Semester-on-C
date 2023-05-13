@@ -162,9 +162,10 @@ void menu(){
                 variant = checking_variant();
                 mytime = time(NULL);
                 now = localtime(&mytime);
-                fprintf(fp_log, "Date: %d.%d.%d\n", now->tm_mday, now->tm_mon + 1, now->tm_year + 1900);
+                fputs("Created a structure:", fp_log);
+                fprintf(fp_log, "Date: %d.%d.%d ", now->tm_mday, now->tm_mon + 1, now->tm_year + 1900);
                 fprintf(fp_log, "Time: %d:%d:%d\n", now->tm_hour, now->tm_min, now->tm_sec);
-                fputs("Created a structure\n", fp_log);
+
                 break;
             case SHOW_LIB:
                 show_list(list_of_games);
@@ -178,9 +179,10 @@ void menu(){
                 variant = checking_variant();
                 mytime = time(NULL);
                 now = localtime(&mytime);
-                fprintf(fp_log, "Date: %d.%d.%d\n", now->tm_mday, now->tm_mon + 1, now->tm_year + 1900);
+                fputs("Structs are sorted: ", fp_log);
+                fprintf(fp_log, "Date: %d.%d.%d ", now->tm_mday, now->tm_mon + 1, now->tm_year + 1900);
                 fprintf(fp_log, "Time: %d:%d:%d\n", now->tm_hour, now->tm_min, now->tm_sec);
-                fputs("Structs are sorted\n", fp_log);
+
                 break;
 
             case REMOVE:
@@ -189,9 +191,10 @@ void menu(){
                 variant = checking_variant();
                 mytime = time(NULL);
                 now = localtime(&mytime);
-                fprintf(fp_log, "Date: %d.%d.%d\n", now->tm_mday, now->tm_mon + 1, now->tm_year + 1900);
+                fputs("One/some structs were removed: ", fp_log);
+                fprintf(fp_log, "Date: %d.%d.%d ", now->tm_mday, now->tm_mon + 1, now->tm_year + 1900);
                 fprintf(fp_log, "Time: %d:%d:%d\n", now->tm_hour, now->tm_min, now->tm_sec);
-                fputs("One/some structs were removed\n", fp_log);
+
                 break;
 
             case FIND:
